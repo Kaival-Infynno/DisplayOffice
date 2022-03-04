@@ -1,0 +1,12 @@
+html,
+html body {
+  font-family: "Inter", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+.success {
+  color: blue;
+}
+
+.error {
+  color: red;
+}
